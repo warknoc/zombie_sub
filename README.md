@@ -64,7 +64,6 @@ Total Annualized Drain: $1,607.88 | Active Recurring Patterns: 3
 Zombie_sub is open-source utility software licensed under MIT. If it saved you money:
 
 USDC / Ethereum: 0x9805F8fd4A23Dd39cce11c03C10e6f966B1D6755
-
 ---
 
 ## Privacy Architecture
